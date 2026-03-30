@@ -19,7 +19,6 @@ and working on various projects ✨
 <p align="left">
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-  <a href="https://docs.sqlalchemy.org/en/20/" target="_blank"><img src="https://img.shields.io/badge/-SQLAlchemy-D71E00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy"></a>
   <a href="https://fastapi.tiangolo.com/learn/" target="_blank"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI"></a>
   <a href="https://docs.aiogram.dev/en/v3.17.0/" target="_blank"><img src="https://img.shields.io/badge/-Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"></a>
 </p>
